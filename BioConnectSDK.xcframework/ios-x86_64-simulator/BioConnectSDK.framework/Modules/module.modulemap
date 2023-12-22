@@ -1,0 +1,11 @@
+framework module BioConnectSDK {
+  umbrella header "BioConnectSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module BioConnectSDK.Swift {
+  header "BioConnectSDK-Swift.h"
+  requires objc
+}

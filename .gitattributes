@@ -1,0 +1,7 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*opencv2 filter=lfs diff=lfs merge=lfs -text
+demo/Pods/OpenCV/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
+demo/Pods/OpenCV/opencv2.framework/Versions/Current/opencv2 filter=lfs diff=lfs merge=lfs -text
+demo/Pods/OpenCV/opencv2.framework/opencv2 filter=lfs diff=lfs merge=lfs -text
+.git/objects/91/074a92c31a1438e8a65c93e1a36d796e85fedd filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/8f/4e/8f4e12d8ede8bc4d3b23c4da673832b5b6055cc921a9ae58f987b4fd77d03c3f filter=lfs diff=lfs merge=lfs -text
