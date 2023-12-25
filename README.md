@@ -73,21 +73,19 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
 <br/>
 5. Activity에 적용<br/>
   1) 사용하려는 Activity에서 아래 소스 코드를 참조하여 개발하도록 합니다.<br/>
-  2) SDK를 띄울 화면 View에 @EnvironmentObject를 선언해줍니다.<br/>
-  ```
-  @EnvironmentObject var measureViewModel: MeasurementViewModel
-  @EnvironmentObject var viewModel: SDKViewModel
-  ```
-  3) View를 실행시킬 때 SDK에 전달할 파라미터를 설정하며 "MeasurementViewModel"와 "SDKViewModel"를 초기화시킵니다.<br/>
-  ```
-  .environmentObject(MeasurementViewModel(baseURL (String): 측정지표 분석 서버의 Url ,
-                       showResultTable (Bool): 측정 결과 및 에러를 View UI에 출력 여부,
-                       measureTimer (Double): 라이브러리 내에 선언된 측정 결과 데이터 클래스로 측정 결과를 받는 변수
+  2) SDK를 띄울 화면 View에 @EnvironmentObject를 선언해줍니다.<br/><br/>
+  @EnvironmentObject var measureViewModel: MeasurementViewModel<br/>
+  @EnvironmentObject var viewModel: SDKViewModel<br/><br/>
+  3) View를 실행시킬 때 SDK에 전달할 파라미터를 설정하며 "MeasurementViewModel"와 "SDKViewModel"를 초기화시킵니다.<br/><br/>
+  .environmentObject(MeasurementViewModel(baseURL (String): 측정지표 분석 서버의 Url ,<br/>
+                       showResultTable (Bool): 측정 결과 및 에러를 View UI에 출력 여부,<br/>
+                       measureTimer (Double): 측정 시간(초)
                 ))
-  .environmentObject(SDKViewModel())
-  ```
-  4) 측정 결과는 측정이 완료된 이후 measureViewModel.result에 저장됩니다.
-     배열 형태로 저장되며, 스트레스는 "정상", "약한 스트레스", "강한 스트레스"로 출력됩니다..
+  .environmentObject(SDKViewModel())<br/><br/>
+  <img width="581" alt="image" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/07f7c24e-3439-443b-b167-ed7863863dcb">
+
+  4) 측정 결과는 측정이 완료된 이후 measureViewModel.result에 저장됩니다.<br/>
+     배열 형태로 저장되며, 스트레스는 "정상", "약한 스트레스", "강한 스트레스"로 출력됩니다.<br/>
      measureViewModel.result = 
      [("심박수", Int),
      ("호흡 수", Int),
