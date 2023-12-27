@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		NPFpD/sltHfajejTN0+CeylieTw=
+		P4e9B59kmrM6nXSYH0lFYMPCYgU=
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		JkbTtbnubT3lV9jEODOu5jq+Zr0=
+		YcPK39zGjYdqxgTEeVBIOGSq+WU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mx1EKZm8ChfWly9Ebdeh1uPAf4s7znUOGuhYdIjJfco=
+			2qkUE686AOrebkSfo4BIAwx7ZABxxxw/NoGUG5MbYf4=
 			</data>
 		</dict>
 		<key>Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NtxW/8ufJGlTy1FHp+wQYqR79fwA3E8H4NGEcArBUJg=
+			251Zt/uGzu1Bq/FnljI232zcSXT27Pwt0fpwaAPj3t0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

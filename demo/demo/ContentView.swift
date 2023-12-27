@@ -59,7 +59,7 @@ struct YourApp: App {
                 .environmentObject(
                     MeasurementViewModel(baseURL: "http://118.128.153.171:8088",
                                          showResultTable: true,
-                                         measureTimer: 17
+                                         measureTimer: 15
                 ))  // MeasurementViewModel 초기화 및 주입
                 .environmentObject(SDKViewModel())  // SDKViewModel 초기화 및 주입
         }
