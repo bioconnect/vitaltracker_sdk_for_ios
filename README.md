@@ -1,7 +1,7 @@
-# VitalTracker SDK for Android
+# VitalTracker SDK for iOS
 
-This library allows you to integrate VitalTracker into your Android app.<br/>
-VitalTracker SDK를 안드로이드 앱에 탑재하여 생체지표를 추출할 수 있도록 지원합니다.<br/>
+This library allows you to integrate VitalTracker into your iOS app.<br/>
+VitalTracker SDK를 iOS 앱에 탑재하여 생체지표를 추출할 수 있도록 지원합니다.<br/>
 Remote PPG 기술을 이용하여 5가지의 생체 지표인 심박수, 스트레스, 호흡수, 산소포화도, 혈압을 측정할 수 있습니다.<br/>
 
 <br/>
