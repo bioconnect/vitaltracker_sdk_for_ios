@@ -82,8 +82,7 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
                        measureTimer (Double): 측정 시간(초)
                 ))
   .environmentObject(SDKViewModel())<br/><br/>
-  <img width="581" alt="image" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/07f7c24e-3439-443b-b167-ed7863863dcb">
-
+  <img width="581" alt="image" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/07f7c24e-3439-443b-b167-ed7863863dcb"><br/>
   4) 측정 결과는 측정이 완료된 이후 measureViewModel.result에 저장됩니다.<br/>
      배열 형태로 저장되며, 스트레스는 "정상", "약한 스트레스", "강한 스트레스"로 출력됩니다.<br/>
      measureViewModel.result = 
