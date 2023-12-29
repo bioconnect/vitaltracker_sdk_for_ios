@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/BioConnectSDK.framework/BioConnectSDK</key>
 		<data>
-		lSa0FdOdTTHK2N4BLVQN6T5LCxo=
+		ZtQip9F2mhWyP+EufakxG3/GVBk=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		P4e9B59kmrM6nXSYH0lFYMPCYgU=
+		jaMkCKSJUvbrQLY2FO50c5SqnMk=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		iNVMrTi6jVlALl2sjgO4dlkF5rU=
+		uqgD95WdDHSVQEGrwAbxPerLQlI=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		iNVMrTi6jVlALl2sjgO4dlkF5rU=
+		uqgD95WdDHSVQEGrwAbxPerLQlI=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		UC3Ujdm3TT/AtNssiI6nD/WZTAQ=
+		53ewfIzjxq1vtqBOsqhBO7UhkL8=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/BioConnectSDK</key>
 		<data>
-		powlvv5YSIyzeYl8NxK9ItRSZ4s=
+		fgmYs+oFURgQblxPsMb6cOz0zPU=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		P4e9B59kmrM6nXSYH0lFYMPCYgU=
+		jaMkCKSJUvbrQLY2FO50c5SqnMk=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Z4p2ldkPLAXwCaMllAosns+rEtc=
+		ItuRixmPXjQULe6OzIlON+odsv8=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z4p2ldkPLAXwCaMllAosns+rEtc=
+		ItuRixmPXjQULe6OzIlON+odsv8=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		lmkBIHHoGUpp9VcUL64LOF+4lco=
+		L+7YCUGfsjpsI1GSFjcU4EUiBNc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lSa0FdOdTTHK2N4BLVQN6T5LCxo=
+			ZtQip9F2mhWyP+EufakxG3/GVBk=
 			</data>
 			<key>hash2</key>
 			<data>
-			PZ/5LYzMADQhNSoNvt3cS3ottAVTy34g2fCHBQJaYzY=
+			C7s0xz1mTzrbPJZkZ3qbA086pLAcTKBNRRiE+MeL8tg=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
@@ -154,22 +154,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P4e9B59kmrM6nXSYH0lFYMPCYgU=
+			jaMkCKSJUvbrQLY2FO50c5SqnMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2qkUE686AOrebkSfo4BIAwx7ZABxxxw/NoGUG5MbYf4=
+			Sbx45p8dKk7KpR5oi0DGptm5NspYxCH7KHBrGrf91bQ=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iNVMrTi6jVlALl2sjgO4dlkF5rU=
+			uqgD95WdDHSVQEGrwAbxPerLQlI=
 			</data>
 			<key>hash2</key>
 			<data>
-			A7YjqKcyS4fv5qXh/dOUIEYj+AI8EvDzKPzkMIKOPnM=
+			VCZ1TH6YiBj9wT3cGUtC7FniQgu68cKN0LBsQyg4lKI=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -187,11 +187,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iNVMrTi6jVlALl2sjgO4dlkF5rU=
+			uqgD95WdDHSVQEGrwAbxPerLQlI=
 			</data>
 			<key>hash2</key>
 			<data>
-			A7YjqKcyS4fv5qXh/dOUIEYj+AI8EvDzKPzkMIKOPnM=
+			VCZ1TH6YiBj9wT3cGUtC7FniQgu68cKN0LBsQyg4lKI=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/module.modulemap</key>
@@ -209,22 +209,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UC3Ujdm3TT/AtNssiI6nD/WZTAQ=
+			53ewfIzjxq1vtqBOsqhBO7UhkL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			47Z9RgS0cc3Lsvb2h9qkTNF2LILA0KEGV1rfmusUPSA=
+			Ket7NE5WcQ56AaJDRlZiV9sZRjbbUk6mssYiypI2uC8=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/BioConnectSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			powlvv5YSIyzeYl8NxK9ItRSZ4s=
+			fgmYs+oFURgQblxPsMb6cOz0zPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uZ/b+wqnkoUEQTwucd6YvM51U917cjKYAAh+ZXXyPzc=
+			jImOK7ieEdctZurX4VzQCXa+KhP08jUY9aXB2TRSGO0=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
@@ -275,22 +275,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P4e9B59kmrM6nXSYH0lFYMPCYgU=
+			jaMkCKSJUvbrQLY2FO50c5SqnMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2qkUE686AOrebkSfo4BIAwx7ZABxxxw/NoGUG5MbYf4=
+			Sbx45p8dKk7KpR5oi0DGptm5NspYxCH7KHBrGrf91bQ=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z4p2ldkPLAXwCaMllAosns+rEtc=
+			ItuRixmPXjQULe6OzIlON+odsv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			EbTK1FiVkskJ+Z8zlFAthTE0ISFyT1BaFnm3cGWN/nk=
+			RiT1KXJh0UpOJCtx3h2pOU1Wwhbpf/AToEbvtiCxHbs=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z4p2ldkPLAXwCaMllAosns+rEtc=
+			ItuRixmPXjQULe6OzIlON+odsv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			EbTK1FiVkskJ+Z8zlFAthTE0ISFyT1BaFnm3cGWN/nk=
+			RiT1KXJh0UpOJCtx3h2pOU1Wwhbpf/AToEbvtiCxHbs=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/module.modulemap</key>
@@ -330,11 +330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lmkBIHHoGUpp9VcUL64LOF+4lco=
+			L+7YCUGfsjpsI1GSFjcU4EUiBNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2krlKpgAGLZ6as/TUgwJq2ZUH2f83Nht9dqBn5+Z5DI=
+			HsucdYf3im1bYr4IbT8YH5z9R8GEf50wDNEbwRgHEi4=
 			</data>
 		</dict>
 	</dict>

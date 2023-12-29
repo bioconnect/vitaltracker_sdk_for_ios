@@ -69,14 +69,14 @@ public class MeasurementViewModel : Foundation.ObservableObject {
   public var isMeasuring: Swift.Bool {
     get
   }
-  @Combine.Published @_projectedValueProperty($result) public var result: [(Swift.String, Swift.String)] {
+  @Combine.Published @_projectedValueProperty($result) public var result: Swift.Dictionary<Swift.String, Any> {
     get
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     set
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     _modify
   }
-  public var $result: Combine.Published<[(Swift.String, Swift.String)]>.Publisher {
+  public var $result: Combine.Published<[Swift.String : Any]>.Publisher {
     get
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set

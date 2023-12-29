@@ -5532,40 +5532,33 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[(Swift.String, Swift.String)]",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Tuple",
-                    "printedName": "(Swift.String, Swift.String)",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ]
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
                   }
                 ],
-                "usr": "s:Sa"
+                "usr": "s:SD"
               }
             ],
             "declKind": "Var",
-            "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvp",
-            "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvp",
+            "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvp",
+            "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvp",
             "moduleName": "BioConnectSDK",
             "declAttributes": [
               "ProjectedValueProperty",
               "AccessControl",
-              "Custom"
+              "Custom",
+              "RawDocComment"
             ],
             "accessors": [
               {
@@ -5575,35 +5568,27 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Array",
-                    "printedName": "[(Swift.String, Swift.String)]",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(Swift.String, Swift.String)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          }
-                        ]
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
                       }
                     ],
-                    "usr": "s:Sa"
+                    "usr": "s:SD"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvg",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvg",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvg",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvg",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -5620,35 +5605,27 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Array",
-                    "printedName": "[(Swift.String, Swift.String)]",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(Swift.String, Swift.String)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          }
-                        ]
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
                       }
                     ],
-                    "usr": "s:Sa"
+                    "usr": "s:SD"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvs",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvs",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvs",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvs",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -5675,8 +5652,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvM",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSaySS_SStGvM",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvM",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC6resultSDySSypGvM",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -5701,13 +5678,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Publisher",
-                "printedName": "Combine.Published<Swift.Array<(Swift.String, Swift.String)>>.Publisher",
+                "printedName": "Combine.Published<Swift.Dictionary<Swift.String, Any>>.Publisher",
                 "usr": "s:7Combine9PublishedV9PublisherV"
               }
             ],
             "declKind": "Var",
-            "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvp",
-            "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvp",
+            "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvp",
+            "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvp",
             "moduleName": "BioConnectSDK",
             "implicit": true,
             "accessors": [
@@ -5719,13 +5696,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Publisher",
-                    "printedName": "Combine.Published<Swift.Array<(Swift.String, Swift.String)>>.Publisher",
+                    "printedName": "Combine.Published<Swift.Dictionary<Swift.String, Any>>.Publisher",
                     "usr": "s:7Combine9PublishedV9PublisherV"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvg",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvg",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvg",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvg",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -5743,13 +5720,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Publisher",
-                    "printedName": "Combine.Published<Swift.Array<(Swift.String, Swift.String)>>.Publisher",
+                    "printedName": "Combine.Published<Swift.Dictionary<Swift.String, Any>>.Publisher",
                     "usr": "s:7Combine9PublishedV9PublisherV"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvs",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_Gvs",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvs",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_Gvs",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -5776,8 +5753,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_GvM",
-                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySaySS_SStG_GvM",
+                "usr": "s:13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_GvM",
+                "mangledName": "$s13BioConnectSDK20MeasurementViewModelC7$result7Combine9PublishedV9PublisherVySDySSypG_GvM",
                 "moduleName": "BioConnectSDK",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -6900,695 +6877,744 @@
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5512,
+      "offset": 5461,
+      "length": 34,
+      "value": "\"check measurementResult type -> \""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 5707,
       "length": 11,
       "value": "\"심박수\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5525,
+      "offset": 5720,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5550,
+      "offset": 5745,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5595,
+      "offset": 5790,
       "length": 12,
       "value": "\"호흡 수\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5609,
+      "offset": 5804,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5633,
+      "offset": 5828,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5678,
+      "offset": 5873,
       "length": 8,
       "value": "\"혈압\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5688,
+      "offset": 5883,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5712,
+      "offset": 5907,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5757,
+      "offset": 5952,
       "length": 17,
       "value": "\"산소포화도\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5776,
+      "offset": 5971,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5802,
+      "offset": 5997,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5847,
+      "offset": 6042,
       "length": 21,
       "value": "\"스트레스 지수\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5870,
+      "offset": 6065,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5903,
+      "offset": 6098,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5948,
+      "offset": 6143,
       "length": 14,
       "value": "\"스트레스\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5964,
+      "offset": 6159,
       "length": 18,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 5981,
+      "offset": 6176,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6078,
+      "offset": 6273,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 6405,
+      "length": 15,
+      "value": "\"stressToLevel\""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 6193,
+      "offset": 6618,
       "length": 4,
       "value": "0.35"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6241,
+      "offset": 6666,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6471,
+      "offset": 6826,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 6552,
+      "offset": 6907,
       "length": 4,
       "value": "0.47"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6725,
+      "offset": 7080,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 6850,
+      "offset": 7205,
       "length": 8,
       "value": "\"측정\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6916,
+      "offset": 7271,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7093,
+      "offset": 7448,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7106,
+      "offset": 7461,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7235,
+      "offset": 7590,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 7309,
+      "offset": 7664,
       "length": 4,
       "value": "0.03"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7366,
+      "offset": 7721,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 7477,
+      "offset": 7832,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7481,
+      "offset": 7836,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7574,
+      "offset": 7929,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7627,
+      "offset": 7982,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7671,
+      "offset": 8026,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7725,
+      "offset": 8080,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 7776,
+      "offset": 8131,
       "length": 69,
       "value": "\"측정 중에 얼굴이 감지 되지 않아 취소되었습니다.\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7895,
+      "offset": 8250,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7973,
+      "offset": 8328,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8025,
+      "offset": 8380,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8080,
+      "offset": 8435,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8101,
+      "offset": 8456,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8154,
+      "offset": 8509,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8689,
+      "offset": 9044,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 8750,
+      "offset": 9105,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8794,
+      "offset": 9149,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8840,
+      "offset": 9195,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9023,
+      "offset": 9378,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 9332,
+      "offset": 9687,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9509,
+      "offset": 9864,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 9546,
+      "offset": 9901,
       "length": 15,
       "value": "\"측정 결과\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9664,
+      "offset": 10019,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 9806,
+      "offset": 10161,
       "length": 8,
       "value": "\"지표\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 9950,
+      "offset": 10305,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9964,
+      "offset": 10319,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 10025,
+      "offset": 10380,
       "length": 5,
       "value": "\"값\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 10166,
+      "offset": 10521,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10180,
+      "offset": 10535,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10282,
+      "offset": 10637,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10387,
+      "offset": 10742,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 10550,
+      "offset": 10905,
       "length": 21,
       "value": "\"스트레스 지수\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 10767,
+      "offset": 11122,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10781,
+      "offset": 11136,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 11009,
+      "offset": 11364,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11023,
+      "offset": 11378,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 11220,
+      "offset": 11575,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11364,
+      "offset": 11719,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 11403,
+      "offset": 11758,
       "length": 8,
       "value": "\"닫기\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11466,
+      "offset": 11821,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 11612,
+      "offset": 11967,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11772,
+      "offset": 12127,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11827,
+      "offset": 12182,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 11924,
+      "offset": 12279,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 12052,
+      "offset": 12407,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 12145,
+      "offset": 12500,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12322,
+      "offset": 12677,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 12359,
+      "offset": 12714,
       "length": 15,
       "value": "\"측정 결과\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12477,
+      "offset": 12832,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 12514,
+      "offset": 12869,
       "length": 59,
       "value": "\"일시적인 오류입니다.\n다시 측정해주세요.\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12676,
+      "offset": 13031,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12731,
+      "offset": 13086,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
-      "offset": 12770,
+      "offset": 13125,
       "length": 8,
       "value": "\"닫기\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12833,
+      "offset": 13188,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 12979,
+      "offset": 13334,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13139,
+      "offset": 13494,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13194,
+      "offset": 13549,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 13291,
+      "offset": 13646,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 13419,
+      "offset": 13774,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13740,
+      "offset": 14095,
       "length": 3,
       "value": "285"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13753,
+      "offset": 14108,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13843,
+      "offset": 14198,
       "length": 3,
       "value": "285"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13892,
+      "offset": 14247,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13904,
+      "offset": 14259,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13941,
+      "offset": 14296,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14324,
+      "offset": 14679,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14472,
+      "offset": 14827,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 14529,
+      "offset": 14884,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
-      "offset": 14636,
+      "offset": 14991,
       "length": 3,
       "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 15117,
+      "length": 4,
+      "value": "\"BP\""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 15139,
+      "length": 5,
+      "value": "\"bpm\""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 15163,
+      "length": 6,
+      "value": "\"SpO2\""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 15189,
+      "length": 4,
+      "value": "\"RR\""
+    },
+    {
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "kind": "StringLiteral",
+      "offset": 15211,
+      "length": 13,
+      "value": "\"stressIndex\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
@@ -7599,57 +7625,57 @@
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
-      "kind": "Array",
-      "offset": 322,
-      "length": 2,
+      "kind": "Dictionary",
+      "offset": 384,
+      "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1350,
+      "offset": 1413,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3111,
+      "offset": 3174,
       "length": 51,
       "value": "\"Error in bbox_info: \""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3161,
+      "offset": 3224,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3528,
+      "offset": 3591,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4141,
+      "offset": 4204,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4672,
+      "offset": 4735,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5051,
+      "offset": 5114,
       "length": 1,
       "value": "0"
     }
