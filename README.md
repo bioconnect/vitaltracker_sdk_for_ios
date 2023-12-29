@@ -86,9 +86,12 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
   4) 측정 결과는 측정이 완료된 이후 measureViewModel.result에 저장됩니다.<br/>
      배열 형태로 저장되며, 스트레스는 "정상", "약한 스트레스", "강한 스트레스"로 출력됩니다.<br/>
      measureViewModel.result = 
-     [("심박수", Int),
-     ("호흡 수", Int),
-     ("혈압", String),
-     ("산소포화도", Int),
-     ("스트레스 지수", Int),
-     ("스트레스", String)]
+     [("bpm", Int), //심박수
+     ("RR", Int), //호흡 수
+     ("BP", String), //혈압
+     ("SpO2", Int), //산소포화도
+     ("stressIndex", Int), //스트레스 지수
+     ("stressToLevel", String)] //스트레스<br/><br/>
+     결과 사용 예제 : measureViewModel.result["BP"]!<br/>
+     <img width="518" alt="image" src="https://github.com/bioconnect/vitaltracker_sdk_for_ios/assets/150203489/994ebd95-70c6-4bba-a214-69361662f3c2">
+
