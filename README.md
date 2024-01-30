@@ -41,35 +41,32 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
    1) 프로젝트 경로로 이동.<br/>
    2) "pod init" 명령어를 통해 Podfile 생성.<br/>
    3) 편집기를 이용하여 Podfile를 수정 - pod "OpenCV" 추가.<br/>
-      ![image](https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/0ca8de19-44dc-403d-a4ec-9529add9a5a9)
-      <br/>
+   ![sdk library settings](https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_podfile%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.png)   <br/>
    5) "pod install" 명령어를 통해 OpenCV library 추가.<br/>
   
 3. XCFramework 적용<br/>
    1) XCFramework를 사용할 프로젝트의 “TARGETS” 밑 “General”로 이동.<br/>
    2) “Frameworks, Libraries, and Embedded Content”에서 “+” 추가 버튼 클릭.<br/>
-<img width="687" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/561611f4-459e-42ef-aa80-07b95d13ee32"><br/>
+<img width="687" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_framework%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1.png"><br/>
    3) “Add Others”를 클릭하여 XCFramework가 있는 경로로 이동 및 열기.<br/>
-<img width="408" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/f047a6dd-1c8f-4d87-b7ef-e932eff6154a">
+<img width="408" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_framework%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A12.png">
 <br/>
-<img width="808" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/76517a8b-af33-4c0e-ab11-1ef8f58bbd85">
-<br/>
-<img width="687" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/3d3fa053-e3cf-4e68-b620-674816d45393">
+<img width="808" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_framework%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A13.png">
 <br/>
 4. 권한 설정<br/>
   <br/>
   바이오커넥트 SDK는 카메라를 이용한 frame 분석을 진행하기 때문에 카메라에 대한 접근 권한이 필요합니다. 또한, 바이오커넥트 SDK를 통하여 추출된 데이터를 분석하기 위해 바이오커넥트 자사 내 서버에서 운영중인 python code 실행. 바이오커넥트 자사 내 서버와 HTTP 주소를 통해 통신하고 있지만, iOS9 이후로 Apple 측에서 ATS를 통한 HTTP 접속을 제한하고 있습니다. 이를 해결하기 위해 iOS App의 Info에서 권한 설정을 해야합니다. <br/>
   <br/>
   1) Project “TARGETS”의 “Info” tab으로 이동.<br/>
-  <img width="888" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/fef48d7a-5b87-4037-afc4-c75f3990a63e"><br/>
+  <img width="888" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_%E1%84%80%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png"><br/>
   2) 카메라 권한 추가.<br/>
   “Privacy - Camera Usage Description” 추가.<br/>
-  <img width="616" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/46bf265f-c26a-476e-95e5-8970ecae8718"><br/>
+  <img width="616" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_%E1%84%8F%E1%85%A1%E1%84%86%E1%85%A6%E1%84%85%E1%85%A1%E1%84%80%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png"><br/>
   3) HTTP 접근 허용.<br/>
     - “App Transport Security Settings” 추가.<br/>
     - “App Transport Security Settings” 아래에 “Allow Arbitrary Loads” 추가.<br/>
     - “Allow Arbitrary Loads”의 “Value”를 Yes로 변경.<br/>
-    <img width="608" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/98083f11-f64f-472e-bc50-f20dc160f55d">
+    <img width="608" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_http%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%80%E1%85%B3%E1%86%AB%E1%84%80%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png">
 <br/>
 5. Activity에 적용<br/>
   1) 사용하려는 Activity에서 아래 소스 코드를 참조하여 개발하도록 합니다.<br/>
@@ -82,7 +79,7 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
                        measureTimer (Double): 측정 시간(초)
                 ))
   .environmentObject(SDKViewModel())<br/><br/>
-  <img width="581" alt="image" src="https://github.com/HKYoung93/vitaltracker_sdk_for_ios/assets/150203489/07f7c24e-3439-443b-b167-ed7863863dcb"><br/>
+  <img width="581" alt="image" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_%E1%84%91%E1%85%A1%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%90%E1%85%A5%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png"><br/>
   4) 측정 결과는 측정이 완료된 이후 measureViewModel.result에 저장됩니다.<br/>
      배열 형태로 저장되며, 스트레스는 "정상", "약한 스트레스", "강한 스트레스"로 출력됩니다.<br/>
      measureViewModel.result = 
@@ -93,5 +90,5 @@ Vital Tracker의 제품은 Mobile용 SDK와 생체지표를 분석하는 서버�
      ("stressIndex", Int), //스트레스 지수
      ("stressToLevel", String)] //스트레스<br/><br/>
      결과 사용 예제 : measureViewModel.result["BP"]!<br/>
-     <img width="518" alt="image" src="https://github.com/bioconnect/vitaltracker_sdk_for_ios/assets/150203489/994ebd95-70c6-4bba-a214-69361662f3c2">
+     <img width="518" alt="image" src="https://github.com/bioconnect/filestorage/blob/2b2c3a7e308573a9d3cdebc1fc7debb319317f0d/VitalTraker_SDK_iOS/VitalTracker_iOS_Readme_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6.png">
 
