@@ -10,14 +10,14 @@
 		1127290428D30A9EBC4B676D /* Pods_demoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 309498F8E652A6B3DBAAC3B1 /* Pods_demoTests.framework */; };
 		1A82EE9008467D99019D2B99 /* Pods_demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC52607479F3D37866CA078C /* Pods_demo.framework */; };
 		521907970F430B796D765487 /* Pods_demo_demoUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83623CA6D849AD5844123634 /* Pods_demo_demoUITests.framework */; };
+		98664C732B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */; };
+		98664C742B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		9878584B2B34187F0019A471 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9878584A2B34187F0019A471 /* ContentView.swift */; };
 		9878584F2B3418810019A471 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9878584E2B3418810019A471 /* Assets.xcassets */; };
 		987858532B3418810019A471 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 987858522B3418810019A471 /* Preview Assets.xcassets */; };
 		9878585D2B3418810019A471 /* demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9878585C2B3418810019A471 /* demoTests.swift */; };
 		987858672B3418810019A471 /* demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987858662B3418810019A471 /* demoUITests.swift */; };
 		987858692B3418810019A471 /* demoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987858682B3418810019A471 /* demoUITestsLaunchTests.swift */; };
-		9878587C2B3432A40019A471 /* BioConnectSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9878587B2B3432A40019A471 /* BioConnectSDK.xcframework */; };
-		9878587D2B3432A40019A471 /* BioConnectSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9878587B2B3432A40019A471 /* BioConnectSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +44,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9878587D2B3432A40019A471 /* BioConnectSDK.xcframework in Embed Frameworks */,
+				98664C742B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -57,6 +57,7 @@
 		80E09DD58A8A784726610BF7 /* Pods-demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo.release.xcconfig"; path = "Target Support Files/Pods-demo/Pods-demo.release.xcconfig"; sourceTree = "<group>"; };
 		83623CA6D849AD5844123634 /* Pods_demo_demoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_demo_demoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BFFE9BEC7E7ABA3CCD50D41 /* Pods-demoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoTests.debug.xcconfig"; path = "Target Support Files/Pods-demoTests/Pods-demoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:QFLQTU9KKD:HY Kim"; lastKnownFileType = wrapper.xcframework; name = BioConnectSDK.xcframework; path = ../BioConnectSDK.xcframework; sourceTree = "<group>"; };
 		987858452B34187F0019A471 /* demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9878584A2B34187F0019A471 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9878584E2B3418810019A471 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -68,7 +69,6 @@
 		987858662B3418810019A471 /* demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoUITests.swift; sourceTree = "<group>"; };
 		987858682B3418810019A471 /* demoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9878587A2B341A750019A471 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		9878587B2B3432A40019A471 /* BioConnectSDK.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:QFLQTU9KKD:HY Kim"; lastKnownFileType = wrapper.xcframework; name = BioConnectSDK.xcframework; path = ../BioConnectSDK/BioConnectSDK_20231220/BioConnectSDK.xcframework; sourceTree = "<group>"; };
 		9F60301A48608C493B757823 /* Pods-demo-demoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo-demoUITests.release.xcconfig"; path = "Target Support Files/Pods-demo-demoUITests/Pods-demo-demoUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A36B9FAB29D9A6054E2FE9D9 /* Pods-demoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoTests.release.xcconfig"; path = "Target Support Files/Pods-demoTests/Pods-demoTests.release.xcconfig"; sourceTree = "<group>"; };
 		B75FF64C0231F1DE4F85CACD /* Pods-demo-demoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demo-demoUITests.debug.xcconfig"; path = "Target Support Files/Pods-demo-demoUITests/Pods-demo-demoUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -80,7 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9878587C2B3432A40019A471 /* BioConnectSDK.xcframework in Frameworks */,
+				98664C732B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Frameworks */,
 				1A82EE9008467D99019D2B99 /* Pods_demo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -179,7 +179,7 @@
 		F999691EFD516728E1D61263 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9878587B2B3432A40019A471 /* BioConnectSDK.xcframework */,
+				98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */,
 				CC52607479F3D37866CA078C /* Pods_demo.framework */,
 				83623CA6D849AD5844123634 /* Pods_demo_demoUITests.framework */,
 				309498F8E652A6B3DBAAC3B1 /* Pods_demoTests.framework */,
@@ -555,6 +555,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "/Users/HAKYOUNG/Documents/Project/BioConnectSDK/BioConnectSDK.xcframework/ios-arm64/BioConnectSDK.framework/Headers/";
 				INFOPLIST_FILE = demo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -570,9 +571,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = /Users/HAKYOUNG/Documents/asdf/;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bioconnect.demo.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bioconnect.ios.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -589,6 +591,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = demo/demo.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"demo/Preview Content\"";
@@ -596,6 +599,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "/Users/HAKYOUNG/Documents/Project/BioConnectSDK/BioConnectSDK.xcframework/ios-arm64/BioConnectSDK.framework/Headers/";
 				INFOPLIST_FILE = demo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -611,9 +615,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = /Users/HAKYOUNG/Documents/asdf/;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bioconnect.demo.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bioconnect.ios.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";

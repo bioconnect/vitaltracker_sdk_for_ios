@@ -6837,7 +6837,7 @@
       "kind": "IntegerLiteral",
       "offset": 4987,
       "length": 3,
-      "value": "200"
+      "value": "150"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
@@ -6851,14 +6851,14 @@
       "kind": "IntegerLiteral",
       "offset": 5137,
       "length": 3,
-      "value": "200"
+      "value": "150"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 5174,
       "length": 3,
-      "value": "900"
+      "value": "300"
     },
     {
       "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",

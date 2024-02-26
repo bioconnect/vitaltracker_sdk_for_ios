@@ -20,9 +20,8 @@ struct ContentView: View {
         Task {
             do {
                 // 비동기 작업 내용
-//                print("결과 출력 : ", measureViewModel.result["BP"]!)
-                print("화면 가로 : ", UIScreen.main.bounds.width)
-                print("화면 세로 : ", UIScreen.main.bounds.height)
+                print("결과 출력 : ", measureViewModel.result)
+                print("결과 출력 : ", measureViewModel.result["BP"]!)
             }
         }
     }
@@ -45,8 +44,8 @@ struct ContentView: View {
             }) {
                 Text("Show SDKView")
                     .fullScreenCover(isPresented: $SDKView, content: {
-                        BioConnectSDKView()
-                    })
+                                            BioConnectSDKView()
+                                        })
             }
 //            .sheet(isPresented: $SDKView) {
 //                BioConnectSDKView() // ABC 뷰를 시트로 보여줌
@@ -61,9 +60,9 @@ struct YourApp: App {
         WindowGroup {
             ContentView()
                 .environmentObject(
-                    MeasurementViewModel(baseURL: "http://118.128.153.171:8088", //서버주소 입력
-                                         showResultTable: true, // 측정 결과 Table cnffur
-                                         measureTimer: 15 // 측정 시간 설정(초)
+                    MeasurementViewModel(baseURL: "http://118.128.153.171:8088",
+                                         showResultTable: true,
+                                         measureTimer: 15
                 ))  // MeasurementViewModel 초기화 및 주입
                 .environmentObject(SDKViewModel())  // SDKViewModel 초기화 및 주입
         }
