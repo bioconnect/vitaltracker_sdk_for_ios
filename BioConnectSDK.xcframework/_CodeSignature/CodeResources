@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/BioConnectSDK.framework/BioConnectSDK</key>
 		<data>
-		ZVsg4EHjZxmkkmQHBk2pJZKob5c=
+		/9hGkL2FnW8fDACSqNIbs58E/3U=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+		uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		rZ04WBQoXhcquSuaLYVr47d3kqk=
+		T5/PKECymGCvOriAVmS/sMRAqz8=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		HXSJ1p4pYr9Qb5ByTD+5hE7l4mw=
+		Aq6DGiwQBbo8AavN4yQtGOdL6fU=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		GRbYaVU+6cod1O/hSBinuMJ5K9A=
+		R7CtAivpkcwiB5H+93dfduX9DLA=
 		</data>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		5/9uwaHRN7QijXDdExvFeZ5l2z0=
+		oc00K7dlu4n5GcdR/chgTyVIs7I=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/BioConnectSDK</key>
 		<data>
-		4k0b7idpA/H08wzy3Gu+cevu4fU=
+		20OTVqzQrImgcjM5P1SClhGZVHY=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+		uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		O7t1Q4DXB+iYfLEUkNQ8QTJiyC8=
+		3ZRRA+vdp6vWDcLV7Jyq4RTQJF4=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		8fZ+Dr0BWIeZH39DtNl1Neso8RA=
+		qtek3olAS7SUYIQ6MwnCROd02V8=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ywHEQKIsV+2fy+wT2av3VJi3tVo=
+		U/vDLK1a0Lru2rULy0NYtQCK8+o=
 		</data>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZVsg4EHjZxmkkmQHBk2pJZKob5c=
+			/9hGkL2FnW8fDACSqNIbs58E/3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			8u6lRh/NkiLmQTuOowcmKuKMTuydNCDT5cuxZcOs+KM=
+			JhnKZxxaEmynzMK3sxnZ69lBxWlNOkF5aQy85I2HTF8=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
@@ -186,11 +186,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+			uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			29q1rFp8v7gy8Tm/I7xW1KY4LFNpxdF+CMkqRIc6lbA=
+			f7bV7eQrlWJtsquGxzbVe/QXnI2UeZGxNYPIwjZ88Lk=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -241,11 +241,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rZ04WBQoXhcquSuaLYVr47d3kqk=
+			T5/PKECymGCvOriAVmS/sMRAqz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			X5P+BvIOKP4tmehAUgAHluBanxvlJ7kNVduR3V0+LWA=
+			LJtBB+5u/TS94YxL4KJvI1L8h6ykVDEnGWf3jRgbU4Y=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -263,44 +263,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HXSJ1p4pYr9Qb5ByTD+5hE7l4mw=
+			Aq6DGiwQBbo8AavN4yQtGOdL6fU=
 			</data>
 			<key>hash2</key>
 			<data>
-			vqr4xhwsQ2g/eyHCrpwLHUywBAG8vErsYupKTaTrdmM=
+			VCaKXudGMenkQr0XC9UkYvNVw3CiQiXpNtNjKFKDT2w=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GRbYaVU+6cod1O/hSBinuMJ5K9A=
+			R7CtAivpkcwiB5H+93dfduX9DLA=
 			</data>
 			<key>hash2</key>
 			<data>
-			azkAvM0/O9MfgglxVkXQ9Ebj7ECFuZidRNOLIWpNeqE=
+			wUnqwjob2qA18eQZ8AM56HwmN0DFEe/YWY1NfrCn7tY=
 			</data>
 		</dict>
 		<key>ios-arm64/BioConnectSDK.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5/9uwaHRN7QijXDdExvFeZ5l2z0=
+			oc00K7dlu4n5GcdR/chgTyVIs7I=
 			</data>
 			<key>hash2</key>
 			<data>
-			nz4Tc+aBPqJtMccTrMi/17YFJ766AvXWBXZ25XrqUeY=
+			K9QBkTVWN/WotTjO/VUiNYTeJE6GGnbRFlaEopxJXhY=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/BioConnectSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4k0b7idpA/H08wzy3Gu+cevu4fU=
+			20OTVqzQrImgcjM5P1SClhGZVHY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z+5+Ir0ieXUMns4w7Dwg5nyHg1pPiOJ4RMIWdjheGiU=
+			fuYIByf8X7blMmeM4AHYDlLYM8M8okQbkjEb05PrWp0=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Headers/BioConnectSDK-Swift.h</key>
@@ -351,11 +351,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+			uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			29q1rFp8v7gy8Tm/I7xW1KY4LFNpxdF+CMkqRIc6lbA=
+			f7bV7eQrlWJtsquGxzbVe/QXnI2UeZGxNYPIwjZ88Lk=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -406,11 +406,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O7t1Q4DXB+iYfLEUkNQ8QTJiyC8=
+			3ZRRA+vdp6vWDcLV7Jyq4RTQJF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			SEhfnVxcWk1gnoTr8iNeA5B1aUASf6lnKUUtcRrbeKs=
+			CzV3dkkQqm8zM3hV1dB5G+MgkT15yTT2sGKcIMruQiQ=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -428,22 +428,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8fZ+Dr0BWIeZH39DtNl1Neso8RA=
+			qtek3olAS7SUYIQ6MwnCROd02V8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oXrO5D8E8pvZXE/57rhhmoCjgexYjg3y87NxyfXKbms=
+			MW4TlUGG0w05q6TkPdxYSItAtvCLBXi7u2KXAAyugQ4=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ywHEQKIsV+2fy+wT2av3VJi3tVo=
+			U/vDLK1a0Lru2rULy0NYtQCK8+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			kaET9exBvcogYSWzShof2AX4J4vI88aQTYOWp1OnLb8=
+			fJdOejkS6NKtldnALzD7oin7/W06NhOmBNkeCx/W588=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/BioConnectSDK.framework/_CodeSignature/CodeSignature</key>

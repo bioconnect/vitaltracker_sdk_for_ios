@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+		uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		os0qdEwfbndqqKUyhVczSGiTUz8=
+		SH07pBcE+/VQbZ48rLHYAow9FzI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Lzb1cCGHaNaIZGXogwg3Zvk+lNg=
+			uKYkLVRtaC+JaQ1AzQWb2JDcd5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			29q1rFp8v7gy8Tm/I7xW1KY4LFNpxdF+CMkqRIc6lbA=
+			f7bV7eQrlWJtsquGxzbVe/QXnI2UeZGxNYPIwjZ88Lk=
 			</data>
 		</dict>
 		<key>Modules/BioConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			os0qdEwfbndqqKUyhVczSGiTUz8=
+			SH07pBcE+/VQbZ48rLHYAow9FzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jVk5lfqUVq9oB2oJ39/DO/5WodMk2dnVqvaxDsVPU9I=
+			XHYF5IARb6yLQ9TJSCoce0khpAOer4R6FoEi8nlvze0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

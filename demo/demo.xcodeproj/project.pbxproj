@@ -10,6 +10,7 @@
 		1127290428D30A9EBC4B676D /* Pods_demoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 309498F8E652A6B3DBAAC3B1 /* Pods_demoTests.framework */; };
 		1A82EE9008467D99019D2B99 /* Pods_demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC52607479F3D37866CA078C /* Pods_demo.framework */; };
 		521907970F430B796D765487 /* Pods_demo_demoUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83623CA6D849AD5844123634 /* Pods_demo_demoUITests.framework */; };
+		9849DBA12BB3D77A00141946 /* BioConnectSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */; };
 		98664C732B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */; };
 		98664C742B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 98664C722B8C54F4009D6FA1 /* BioConnectSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		9878584B2B34187F0019A471 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9878584A2B34187F0019A471 /* ContentView.swift */; };
@@ -82,6 +83,7 @@
 			files = (
 				98664C732B8C54F4009D6FA1 /* BioConnectSDK.xcframework in Frameworks */,
 				1A82EE9008467D99019D2B99 /* Pods_demo.framework in Frameworks */,
+				9849DBA12BB3D77A00141946 /* BioConnectSDK.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

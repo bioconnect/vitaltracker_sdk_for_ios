@@ -6238,1435 +6238,1435 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 515,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 737,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "Array",
       "offset": 787,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "Array",
       "offset": 865,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1733,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1824,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 2720,
       "length": 64,
       "value": "\"No camera detected. Please use a real camera, not a simulator.\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 3477,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 3665,
       "length": 31,
       "value": "\"camera_frame_processing_queue\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3967,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3981,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 4114,
       "length": 57,
       "value": "\"Error setting frame rate: \""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 4170,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4660,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5052,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5248,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5451,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "Dictionary",
       "offset": 5615,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "Array",
       "offset": 5896,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 6140,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 6148,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 7245,
       "length": 2,
       "value": "35"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 8886,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/SDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 9952,
       "length": 44,
       "value": "\"Unable to get image from the sample buffer\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "StringLiteral",
       "offset": 396,
       "length": 33,
       "value": "\"빈 UIImage를 받았습니다.\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 2048,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 2073,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 2098,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 2666,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 2858,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "BooleanLiteral",
       "offset": 2978,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "StringLiteral",
       "offset": 3534,
       "length": 49,
       "value": "\"VNFaceObservation으로 다운 캐스팅 실패\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 4723,
       "length": 2,
       "value": "90"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 4741,
       "length": 5,
       "value": "180.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/FaceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 4870,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/UIImage + Extension.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/UIImage + Extension.swift",
       "kind": "IntegerLiteral",
       "offset": 1084,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 11,
       "value": "\"rgbValues\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 14,
       "value": "\"measurements\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "IntegerLiteral",
       "offset": 590,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "StringLiteral",
       "offset": 625,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "StringLiteral",
       "offset": 661,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "StringLiteral",
       "offset": 701,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "IntegerLiteral",
       "offset": 966,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementAPI.swift",
       "kind": "IntegerLiteral",
       "offset": 974,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementError.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementError.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 53,
       "value": "\"Http 응답을 올바르게 받지 못했습니다.\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 1072,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 1110,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 1156,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "Array",
       "offset": 1217,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 1257,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 1433,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 1475,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 1613,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 1805,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "Array",
       "offset": 1867,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 1907,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 2160,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 2692,
       "length": 4,
       "value": "0.80"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 2761,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 2929,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 2933,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3075,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3140,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3144,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 3208,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 3427,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3509,
       "length": 3,
       "value": "448"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3671,
       "length": 3,
       "value": "448"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 3721,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3776,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 3874,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 4039,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4082,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 4125,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4171,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 4321,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4325,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 4338,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4497,
       "length": 3,
       "value": "448"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4538,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4596,
       "length": 9,
       "value": "1000000"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 4658,
       "length": 5,
       "value": "0.001"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4751,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 4913,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 4987,
       "length": 3,
       "value": "150"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5049,
       "length": 8,
       "value": "\"정상\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 5137,
       "length": 3,
       "value": "150"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 5174,
       "length": 3,
-      "value": "300"
+      "value": "500"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5236,
       "length": 21,
       "value": "\"약한 스트레스\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5359,
       "length": 21,
       "value": "\"강한 스트레스\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5512,
       "length": 11,
       "value": "\"심박수\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5525,
       "length": 26,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5550,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5595,
       "length": 12,
       "value": "\"호흡 수\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5609,
       "length": 25,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5633,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5678,
       "length": 8,
       "value": "\"혈압\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5688,
       "length": 25,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5712,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5757,
       "length": 17,
       "value": "\"산소포화도\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5776,
       "length": 27,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5802,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5847,
       "length": 21,
       "value": "\"스트레스 지수\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5870,
       "length": 34,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5903,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5948,
       "length": 14,
       "value": "\"스트레스\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5964,
       "length": 18,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 5981,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 6078,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 6210,
       "length": 15,
       "value": "\"stressToLevel\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 6423,
       "length": 4,
       "value": "0.35"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 6471,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 6631,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 6712,
       "length": 4,
       "value": "0.47"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 6885,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 7010,
       "length": 8,
       "value": "\"측정\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 7076,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 7282,
       "length": 5,
       "value": "0.918"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 7327,
       "length": 5,
       "value": "0.067"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 7459,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 7533,
       "length": 4,
       "value": "0.03"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 7590,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 7701,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 7705,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 7798,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 7851,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 7895,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 7949,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 8000,
       "length": 69,
       "value": "\"측정 중에 얼굴이 감지 되지 않아 취소되었습니다.\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 8119,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 8197,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 8249,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 8304,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 8325,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 8378,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 8942,
       "length": 5,
       "value": "0.918"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 9005,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 9049,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 9125,
       "length": 4,
       "value": "0.06"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 9310,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 9619,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 9826,
       "length": 5,
       "value": "0.033"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 9866,
       "length": 15,
       "value": "\"측정 결과\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 10014,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 10159,
       "length": 8,
       "value": "\"지표\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 10303,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 10347,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 10410,
       "length": 5,
       "value": "\"값\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 10551,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 10595,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 10699,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 10804,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 10967,
       "length": 21,
       "value": "\"스트레스 지수\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11184,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11228,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11458,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11502,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11701,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 11875,
       "length": 5,
       "value": "0.033"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 11917,
       "length": 8,
       "value": "\"닫기\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 11980,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12126,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 12286,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12371,
       "length": 5,
       "value": "0.047"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12471,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12599,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12712,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 12919,
       "length": 5,
       "value": "0.033"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 12959,
       "length": 15,
       "value": "\"측정 결과\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 13107,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 13147,
       "length": 59,
       "value": "\"일시적인 오류입니다.\n다시 측정해주세요.\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 13339,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 13427,
       "length": 5,
       "value": "0.033"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 13469,
       "length": 8,
       "value": "\"닫기\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "BooleanLiteral",
       "offset": 13532,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 13678,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 13838,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 13923,
       "length": 5,
       "value": "0.047"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14023,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14151,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14501,
       "length": 5,
       "value": "0.688"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14546,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14668,
       "length": 5,
       "value": "0.688"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 14719,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14761,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 14831,
       "length": 5,
       "value": "0.022"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 15217,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "IntegerLiteral",
       "offset": 15365,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 15422,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "FloatLiteral",
       "offset": 15529,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 15655,
       "length": 4,
       "value": "\"BP\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 15677,
       "length": 5,
       "value": "\"bpm\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 15701,
       "length": 6,
       "value": "\"SpO2\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 15727,
       "length": 4,
       "value": "\"RR\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/BioConnectSDKView.swift",
       "kind": "StringLiteral",
       "offset": 15749,
       "length": 13,
       "value": "\"stressIndex\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 261,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "Dictionary",
       "offset": 384,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1413,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "StringLiteral",
       "offset": 3174,
       "length": 51,
       "value": "\"Error in bbox_info: \""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "StringLiteral",
       "offset": 3224,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 3591,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 4204,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 4735,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/HAKYOUNG\/Documents\/Project\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
+      "filePath": "\/Users\/HAKYOUNG\/Documents\/work\/1.Work\/1.Vital_Tracker\/2.IoS\/rppgsdk_ios\/BioConnectSDK\/BioConnectSDK\/MeasurementViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 5114,
       "length": 1,
