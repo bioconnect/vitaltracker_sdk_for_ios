@@ -60,7 +60,7 @@ struct YourApp: App {
         WindowGroup {
             ContentView()
                 .environmentObject(
-                    MeasurementViewModel(baseURL: "http://52.79.96.20:8088",
+                    MeasurementViewModel(baseURL: "http://118.128.153.171:8088",
                                          showResultTable: true,
                                          measureTimer: 15
                 ))  // MeasurementViewModel 초기화 및 주입
